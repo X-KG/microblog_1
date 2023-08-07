@@ -1,0 +1,31 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environment
+venv/
+
+# Ignore IDE-specific files
+.idea/
+
+# Ignore Flask environment file
+.flaskenv
+
+# Ignore database
+app.db
+
+# Ignore localization files
+#babel.cfg
+#messages.pot
+
+# Ignore logs
+logs/
+
+# Ignore test files
+#tests.py
+
+# Ignore configuration file (if needed)
+#config.py
+
